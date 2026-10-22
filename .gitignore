@@ -1,0 +1,9 @@
+# build output
+flowdesk
+flowdesk.exe
+*.o
+*.obj
+
+# OS files
+.DS_Store
+Thumbs.db
